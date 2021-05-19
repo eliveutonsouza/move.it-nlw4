@@ -12,7 +12,9 @@
 
 **Move.it** and a Front-End project during NLW#4 [Rocketseat](https://github.com/Rocketseat). This project uses a Pomodoro Technique and a Level system that takes away your sedentary life for several hours working or studying while sitting.
 
-<br/>
+## 💻 Demo
+
+- Click to access: https://moveit-ten-beta.vercel.app/
 
 ## 🔧 Tools
 
@@ -20,7 +22,6 @@
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-<br/>
 
 ## 👨‍💻 How to Setup
 
