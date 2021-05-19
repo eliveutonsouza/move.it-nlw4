@@ -55,7 +55,7 @@
 
 ## 📝 License
 
-This project is under the MIT license. See the file <a href="">LICENCE</a> for more details.
+This project is under the MIT license. See the file <a href="https://github.com/eliveutonsouza/move.it-nlw4/blob/master/LICENSE.md">LICENCE</a> for more details.
 
 ---
 
